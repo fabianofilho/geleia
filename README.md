@@ -1,2 +1,2 @@
 # geleia
-projetos e desagios
+projetos e desafios
